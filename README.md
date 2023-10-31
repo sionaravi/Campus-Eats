@@ -78,15 +78,3 @@ npm test
 
 Jest will execute each test case and provide you with the results in the console. If all tests pass, you'll see a green checkmark, indicating that your screen is working as expected. If any tests fail, Jest will provide detailed information about the failure, allowing you to identify and fix any issues.
 
-
-# Authors
-
-Vidhee Patel vidhee@email.sc.edu.
-
-Kylie Gore goreka@email.sc.edu. 
-
-Jack Hempstead hempstej@email.sc.edu.
-
-Nicholas Garofalo Garofaln@email.sc.edu. 
-
-Siona Ravi aravi@email.sc.edu.
