@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Campus Eats</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+      }
+      body {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: #fbebeb;
+        margin: 0;
+        padding: 0px;
+        display: flex;
+        flex-direction: column;
+      }
+      
+      #header {
+        background-color: #b6b7e5;
+        color: black;
+        text-align: center;
+        padding: 10px;
+      }
+      
+      #nav {
+        background-color: #884e7d;
+        color: #FBEBEB;
+        text-align: center;
+        padding: 10px;
+      }
+      
+      #content {
+        flex: 1;
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      }
+      
+      #footer {
+        background-color: #b6b7e5;
+        color: #FBEBEB;
+        text-align: center;
+        padding: 10px;
+        flex-shrink: 0;
+      }
+      
+      a {
+        color: #FBEBEB;
+        text-decoration: none;
+      }
+      
+      h1, h2, h3, h4, h5, h6 {
+        margin-top: 20px;
+        text-align: center;
+      }
+      
+      img {
+        width: 100%;
+        height: auto;
+        justify-content: center;
+      }
+
+      
+
+      /* //commenting out the code for the circles, can be implemented later it just isnt completely important right now
+      #circle1, #circle2 {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        width: 300px; // Adjust the size of the circle 
+        height: 300px; // Adjust the size of the circle 
+        border-radius: 50%; // Set the border radius to 50% to create a circle
+        background-color: #884e7d; // Set the color of the circle
+        opacity: 0.5; // Adjust the opacity of the circle 
+      }
+
+      #circle1 {
+        left: 150px; //Position the first circle to the left of the page 
+        top: 150px;
+      }
+
+      #circle2 {
+        right: -150px; // Position the second circle to the right of the page 
+      } 
+      */
+    </style>
+  </head>
+  
+  <body>
+    <!-- Display the header with the title of the app-->
+    <div id="header">
+      <h1>Campus Eats</h1>
+    </div>
+    
+    <!-- This code will display a navigation bar in the header of our website -->
+    <div id="nav">
+      <a href="index.html">Home</a> | 
+      <a href="about.html">About</a> | 
+      <a href="#">Final Demo</a> 
+    </div>
+
+    <!-- I wanted to put in the circles like we have on the screen of our application, but am gonna need longer to work on it -->
+    <!-- <div id="circle1"></div>
+    <div id="circle2"></div> -->
+    
+    <!--Below is the content for the Final Demo page, including the description and the embedded video -->
+    <div id="content">
+      <h2>Final Demo Video</h2>
+      <p>Embedded below is the final demo for our project.</p>  
+      <body>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ktSVJCGaS4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </body>    
+    </div>
+    
+    <!--Displays the footer which SHOULD be stagnant on the bottom of the page-->
+    <div id="footer">
+      <p>&copy; 2023 Campus Eats. All rights reserved.</p>
+    </div>
+  </body>
+</html>

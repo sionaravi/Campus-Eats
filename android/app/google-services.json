@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "279146890630",
+    "firebase_url": "https://campuseats-847ff-default-rtdb.firebaseio.com",
+    "project_id": "campuseats-847ff",
+    "storage_bucket": "campuseats-847ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279146890630:android:ee125d9be0181c7614d807",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279146890630-623h5bdjm4s476neq5p0voh4gi4uo23n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijFau4g9NJAkNebhthYn4mopsN5HBTmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279146890630-623h5bdjm4s476neq5p0voh4gi4uo23n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279146890630:android:d88cba5e317a2da614d807",
+        "android_client_info": {
+          "package_name": "com.campuseats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279146890630-623h5bdjm4s476neq5p0voh4gi4uo23n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijFau4g9NJAkNebhthYn4mopsN5HBTmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279146890630-623h5bdjm4s476neq5p0voh4gi4uo23n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

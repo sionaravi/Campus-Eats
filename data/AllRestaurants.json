@@ -1,0 +1,9 @@
+{
+    "restaurants": [
+        {
+            "names" : ["Colloquium Cafe", "Horseshoe Deli", "Humanities - Starbucks", "Village Juice and Kitchen", "Nacho Papi's", "The Coop", "Counselor's Cafe",
+                        "Hampton St. Cafe", "Carolina Creamery", "Chick-Fil-A", "Einstein Bros. Bagels", "Panda Express", "Panera", "Twisted Taco", "Cafe Verde",
+                        "Wired Cafe", "Thomas Cooper Starbucks"]
+        }
+    ]
+}

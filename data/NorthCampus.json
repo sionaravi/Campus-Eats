@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Counselor's Cafe",
+        "id" : 7 , 
+        "isfavorite" : false,
+        "location": "1525 Senate Street",
+        "hours": [
+            {
+                "monday": [730, 1400],
+                "tuesday": [730, 1400],
+                "wednesday": [730, 1400],
+                "thursday": [730, 1400],
+                "friday": [0, 0],
+                "saturday": [0, 0],
+                "sunday": [0, 0]
+            }
+        ]
+    },
+    {
+        "name" :"Hampton  St. Cafe",
+        "id" : 8,
+        "isfavorite" : false,
+        "location": "1600 Hampton Street",
+                    "hours": [
+                        {
+                            "monday": [730, 1430],
+                            "tuesday": [730, 1430],
+                            "wednesday": [730, 1430],
+                            "thursday": [730, 1430],
+                            "friday": [730, 1430],
+                            "saturday": [0, 0],
+                            "sunday": [0, 0]
+                        }
+                    ]
+    }
+    ]

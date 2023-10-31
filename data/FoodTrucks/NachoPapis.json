@@ -1,0 +1,26 @@
+{
+    "entrees": [
+        {
+            "items": ["Chicken Barbacoa Tacos", "Beef Tacos", "Pork Carnitas Tacos", "Green Chili Quesadilla", "Nacho Papi"],
+            "prices": [7.59,7.99,8.19,7.99,7.59]
+        }
+    ],
+    "sides": [
+        {
+            "items": ["Tortilla Chips", "Sofrito Rice", "Braised Beans"],
+            "prices": [1.29, 1.29, 1.39]
+        }
+    ],
+    "beverages" : [
+        {
+            "items": ["Canned Soda"],
+            "prices": [1.49]
+        }
+    ],
+    "extras": [
+        {
+            "items": ["Pico De Gallo", "Salsa Verde", "Lillie's Salsa", "Salsa Picante", "Chili Lime Ranch", "Chipotle Lime Crema", "Sour Cream", "Avocado", "Spicy Queso", "Queso Fresco", "Guacamole"],
+            "prices": [0.99,0.99,0.99,0.99,0.99, 1.09, 1.09, 1.29, 1.59, 1.59, 1.59]
+        }
+    ]
+}

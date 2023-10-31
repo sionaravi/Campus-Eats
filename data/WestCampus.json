@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Starbucks - Thomas Cooper",
+        "id" : 15,
+        "isfavorite" : false,
+        "location": "1322 Greene Street",
+                    "hours": [
+                        {
+                            "monday": [730, 2300],
+                            "tuesday": [730, 2300],
+                            "wednesday": [730, 2300],
+                            "thursday": [730, 2300],
+                            "friday": [730, 1800],
+                            "saturday": [1100, 1600],
+                            "sunday": [1300, 2300]
+                        }
+                    ] 
+    }
+    ]

@@ -1,0 +1,20 @@
+{
+    "entrees": [
+        {
+            "items": ["All American Burger", "BBQ Trail", "The Spurs Up", "The Hot Spot", "The Bistro"],
+            "prices": [6.49,7.49,7.69,7.69,7.89]
+        }
+    ],
+    "sides": [
+        {
+            "items": ["Fries", "Sweet Potato Fries"],
+            "prices": [2.49, 2.89]
+        }
+    ],
+    "beverages" : [
+        {
+            "items": ["Canned Soda"],
+            "prices": [1.49]
+        }
+    ]
+}

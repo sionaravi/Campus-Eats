@@ -1,0 +1,33 @@
+{
+    "tacos": [
+        {
+            "items": ["Chicken Taco", "Beef Taco", "Seafood Taco", "Veggie Taco", "Taco Combo", "Taco Meal"],
+            "prices": [3.59, 3.89, 3.89, 3.39, 7.29, 8.29]
+        }
+    ],
+    "sides": [
+        {
+            "items": ["Black Beans", "Rice", "Sour Cream", "Guacamole", "Queso", "Churro", "Bag of Chips", "Salsa Verde", "Pico De Gallo", "House Salsa"],
+            "prices": [1.29, 1.29, 0.99, 1.69, 1.69, 2.09, 0.99, 0.99, 0.99, 0.99]
+        }
+    ],
+    "chipsanddip": [
+        {
+            "items": ["Traditional Queso", "Twisted Queso", "Fresh Guacamole", "Chips and Salsa"],
+            "prices": [5.09, 5.49, 5.89, 2.19]
+        }
+    ],
+    "burritobowlsandnachos" : [
+        {
+            "options":["Burrito", "Bowl", "Nachos"],
+            "items": ["Vegetarian", "Tofu", "Chicken and Ground Beef", "Steak"],
+            "prices": [6.29, 6.79, 7.29, 8.29]
+        }
+    ],
+    "beverages" : [
+        {
+            "items": ["Soft Drink", "Lemonade"],
+            "prices": [2.00, 2.50]
+        }
+    ]
+}

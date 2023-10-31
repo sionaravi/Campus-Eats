@@ -1,0 +1,32 @@
+{
+    "entrees": [
+        {
+            "items": ["Create Your Own Salad With Chicken", "Create Your Own Salad Without Chicken", "Philly Cheesesteak", "Chicken Philly Cheesesteak", "Buffalo Chicken Wrap", "Chicken Caprese Sandwich", "Vegetable & Hummus Wrap"],
+            "prices": [9.29,7.69, 8.99, 8.99, 7.99, 7.99, 6.29]
+        }
+    ],
+    "sides": [
+        {
+            "items": ["Soup"],
+            "prices": [4.09]
+        }
+    ],
+    "allDayBreakfast": [
+        {
+            "items": ["Sausage Biscuit", "Sausage, Egg & Cheese Bagel", "Sausage, Egg & Cheese Croissant", "Bacon, Egg & Cheese Biscuit"],
+            "prices": [4.79, 4.79, 4.79, 4.79]
+        }
+    ],
+    "flatbread" : [
+        {
+            "items": ["Meat Lover's", "BBQ Chicken", "Chicken Pesto", "Veggie", "Tomato, Basil and Cheese"],
+            "prices": [9.99, 7.99, 7.99, 6.99, 6.99]
+        }
+    ],
+    "beverages" : [
+        {
+            "items": ["Soft Drinks"],
+            "prices": [2.49]
+        }
+    ]
+}

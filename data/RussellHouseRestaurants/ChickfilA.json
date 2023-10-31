@@ -1,0 +1,26 @@
+{
+"entrees": [
+    {
+        "items": ["Chicken Sandwich", "Spicy Chicken Sandwich", "Spicy Deluxe Sandwich", "Grilled Chicken Sandwich", "Grilled Chicken Club Sandwich", "8-Count Nuggets", "12-Count Nuggets"],
+        "prices": [4.79, 5.15, 5.45, 6.39, 7.79, 4.79, 6.75]
+    }
+],
+"meals": [
+    {
+        "items": ["Sandwich Meal", "Spicy Sandwich Meal", "Nuggets Meal"],
+        "prices":[8.49, 8.95, 8.49]
+    }
+],
+"sides": [
+    {
+        "items": ["Greek Yogurt Parfait with Granola","Greek Yogurt Parfait with Cookie Crumbs", "Fruit Cup", "Potato Chips", "Fries"],
+        "prices":[4.69, 4.69, 3.99, 1.99, 2.35]
+    }
+],
+"beverages" : [
+    {
+        "items": ["Soft Drink - Medium", "Soft Drink - Large", "Lemonade - Medium", "Lemonade - Large", "Diet Lemonade - Medium", "Diet Lemonade - Large", "Sunjoy", "Coffee", "Decaf Coffee"],
+        "prices":[2.19, 2.59, 2.55, 3.05, 2.39, 2.89, 2.55, 2.19, 2.09]
+    }
+]
+}

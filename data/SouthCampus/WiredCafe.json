@@ -1,0 +1,32 @@
+{
+    "breakfast": [
+        {
+            "items": ["Egg and Cheddar", "Bacon, Egg and Cheese", "Bagel", "Muffins", "Fruit Cup", "Strawberry Yogurt Parfait"],
+            "prices": [4.29, 4.79, 2.49, 3.19, 3.39, 3.89]
+        }
+    ],
+    "sandwiches":[
+        {
+            "items": ["The Slide Rule", "The Fortran", "The Wyle E. Coyote", "The Force 10", "B There or T Square"],
+            "prices": [7.49, 7.49, 7.49, 7.49, 6.49]
+        }
+    ],
+    "salads":[
+        {
+            "items": ["Chicken Ceaser Salad", "Greek Salad", "Chef Salad", "Ceaser Salad"],
+            "prices": [8.99, 8.99, 8.99, 7.99]
+        }
+    ],
+    "flatbreads":[
+        {
+            "items": ["Meat Lovers", "BBQ Chicken", "Chicken Pesto", "Tomato, Basil and Cheese"],
+            "prices": [9.99, 7.99, 7.99, 6.99]
+        }
+    ],
+    "sides": [
+        {
+            "items": ["Chips", "Cookie", "Cheesecake"],
+            "prices": [1.39,1.99,3.59]
+        }
+    ]     
+}

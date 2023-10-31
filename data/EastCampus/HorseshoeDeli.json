@@ -1,0 +1,32 @@
+{
+    "breakfast" : [
+        {
+            "items": ["Bacon & Egg Breakfast Burrito", "Sausage, Egg and Cheddar Muffin", "Egg, Ham and Cheddar Croissant", "Strawberry Yogurt Parfait", "Fresh Fruit Cup", "Cinnamon Roll", "Apple Fritter", "Assorted Muffins"],
+            "prices": [4.79, 4.79, 4.79, 3.89, 3.39, 3.19, 3.19, 3.19]
+        }
+    ],
+    "sandwiches" : [
+        {
+            "items": ["Buffalo Chicken Wrap", "Turkey Club", "Turkey Pesto Ciabatta", "Chicken Bacon Melt"],
+            "prices": [7.49, 7.49, 7.49, 7.49]
+        }
+    ],
+    "flatbread" : [
+        {
+            "items": ["Meat Lover's", "BBQ Chicken", "Chicken Pesto", "Tomato, Basil and Cheese"],
+            "prices": [9.99, 7.99, 7.99, 6.99]
+        }
+    ],
+    "sides": [
+        {
+            "items": ["Assorted Chips", "Whole Fruit", "Cookies", "Soup"],
+            "prices": [1.39, 1.39, 2.69, 4.09]
+        }
+    ],
+    "beverages" : [
+        {
+            "items": ["Fountain Beverage"],
+            "prices": [2.19]
+        }
+    ]
+}

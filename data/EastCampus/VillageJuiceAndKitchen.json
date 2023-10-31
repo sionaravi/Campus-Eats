@@ -1,0 +1,38 @@
+{
+    "smoothies": [
+        {
+            "items": ["Mocha Nana", "Pinky Swear", "Sunset", "Curious George", "Green Coco", "Super Blue"],
+            "prices": [8.45, 9.45, 9.45, 9.45, 10.45, 10.45]
+        }
+    ],
+    "breakfastBowls": [
+        {
+            "items": ["Pinky Swear Bowl", "Sunset Bowl", "Acai Bowl", "Overnight Oats"],
+            "prices": [10.45, 11.45, 12.45, 9.45]
+        }
+    ],
+    "toastAndWraps" : [
+        {
+            "items": ["Nut Butter & Banana", "Avo Vegan", "Basil, Bacon & Tomato", "Quit Your Job", "Chicken Bacon & Avocado"],
+            "prices": [10.45, 10.45, 10.45, 10.45, 11.45]
+        }
+    ],
+    "saladAndGrainBowls" : [
+        {
+            "items": ["Village Cobb", "Tropical Chicken", "Southwest", "Farmer's Daughter", "Mediterranean"],
+            "prices": [14.45, 13.45, 11.45, 11.45, 11.45]
+        }
+    ],
+    "coldPressedJuices" : [
+        {
+            "items": ["Great Hydrator", "Pipe Dreams", "Game Changer", "Reboot", "Orchard", "Black Magic", "Sting Shot"],
+            "prices": [10.50, 10.50, 10.50, 11.00, 10.50, 8.50, 8.50]
+        }
+    ],
+    "desserts" : [
+        {
+            "items": ["Boss Bar", "OMG Bar", "Blondie Bar", "Nanaimo (Matcha) Bar", "Nanaimo (Tumeric) Bar", "Assorted Muffins", "Assorted Cheesecake"],
+            "prices": [6.25, 6.00, 6.25, 5.75, 5.75, 6.25, 8.00]
+        }
+    ]
+}

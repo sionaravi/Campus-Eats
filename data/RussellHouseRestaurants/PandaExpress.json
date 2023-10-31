@@ -1,0 +1,32 @@
+{
+    "appetizers" : [
+    {
+        "items": ["Small Chicken Egg Roll", "Large Chicken Egg Roll", "Small Vegetable Egg Rolls", "Large Vegetable Egg Rolls", "Small Cream Cheese Rangoons", "Large Cream Cheese Rangoons"],
+        "prices": [2.00, 8.40, 2.00, 8.40, 2.00, 8.40]
+    }
+    ],
+    "entrees": [
+        {
+            "items": ["Small The Original Orange Chicken", "Medium The Original Orange Chicken", "Large The Original Orange Chicken", "Small Grilled Teriyaki Chicken", "Medium Grilled Teriyaki Chicken", "Large Grilled Teriyaki Chicken", "Small Broccoli Beef", "Medium Broccoli Beef", "Large Broccoli Beef", "Small Beijing Beef", "Medium Beijing Beef", "Large Beijing Beef", "Small Kung Pao Chicken", "Medium Kung Pao Chicken", "Large Kung Pao Chicken", "Small String Bean Chicken Breast", "Medium String Bean Chicken Breast", "Large String Bean Chicken Breast", "Small Shanghai Angus Steak", "Medium Shanghai Angus Steak", "Large Shanghai Angus Steak", "Small Beyond Orange Chicken", "Medium Beyond Orange Chicken", "Large Beyond Orange Chicken", "Small Honey Walnut Shrimp", "Medium Honey Walnut Shrimp", "Large Honey Walnut Shrimp", "Small Honey Sesame Chicken", "Medium Honey Sesame Chicken", "Large Honey Sesame Chicken", "Small Black Pepper Chicken", "Medium Black Pepper Chicken", "Large Black Pepper Chicken"],
+            "prices": [4.90, 8.20, 10.90, 4.90, 8.20, 10.90, 4.90, 8.20, 10.90, 4.90, 8.20, 10.90, 4.90,8.20,10.90, 4.90,8.20,10.90, 4.90,8.20,10.90, 6.15,10.70,14.65, 6.15,10.70,14.65, 4.90,8.20,10.90, 4.90,8.20,10.90]
+        }
+    ],
+    "bowlsandplates": [
+        {
+            "items": ["Bowl", "2 Entree Plate", "3 Entree Plate"],
+            "prices": [7.80, 9.30, 10.80]
+        }
+    ],
+    "sides" : [
+        {
+            "items": ["Medium Chow Main", "Large Chow Main", "Medium Fried Rice", "Large Fried Rice", "Medium White Steamed Rice", "Large White Steamed Rice", "Medium Super Greens", "Large Super Greens"],
+            "prices": [4.40, 5.40, 4.40, 5.40, 4.40, 5.40, 4.40, 5.40]
+        }
+    ],
+    "beverages" : [
+        {
+            "items": ["Soft Drink", "Lemonade"],
+            "prices": [2.00, 2.50]
+        }
+    ]
+}

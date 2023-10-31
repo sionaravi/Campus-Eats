@@ -1,0 +1,42 @@
+{
+    "allDayBreakfast": [
+        {
+            "items": ["Breakfast Sandwich", "Grits Bowl"],
+            "prices": [4.79, 3.99],
+            "breakfast sandwich": ["Sausage Biscuit", "Sausage, Egg & Cheese Bagel", "Sausage, Egg & Cheese Croissant", "Bacon, Egg & Cheese Biscuit"]
+        }
+    ],
+    "sides": [
+        {
+            "items": ["Soup"],
+            "prices": [4.09]
+        }
+    ],
+    "saladsAndSandwiches" : [
+        {
+            "items": ["Create Your Own Salad", "Buffalo Chicken Wrap", "Chicken Caprese Sandwich", "Hot Dogs"],
+            "prices": [7.69, 7.99, 7.99, 3.29],
+            "salad options": [
+                {
+                    "base": ["Romaine", "Spinach"],
+                    "protein":["Turkey", "Ham", "Bacon", "Hard Boiled Egg"],
+                    "cheese": ["Parmesan", "Cheese Blend"],
+                    "toppings": ["Tomato", "Onion", "Cucumber", "Carrots", "Mushrooms", "Crutons"],
+                    "dressing": ["Ranch", "Ceaser", "Honey Mustard", "Blue Cheese", "Italian", "Balsamic", "Lite Raspberry Vinaigrette"]
+                }
+            ]
+        }
+    ],
+    "flatbread" : [
+        {
+            "items": ["Meat Lover's", "BBQ Chicken", "Chicken Pesto", "Veggie", "Tomato, Basil and Cheese"],
+            "prices": [9.99, 7.99, 7.99, 6.99, 6.99]
+        }
+    ],
+    "beverages" : [
+        {
+            "items": ["Soft Drinks"],
+            "prices": [2.49]
+        }
+    ]
+}

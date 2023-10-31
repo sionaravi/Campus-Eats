@@ -1,0 +1,26 @@
+[
+{
+    "name": "Russell House",
+    "id" : 1   
+},
+{
+    "name" :"North Campus",
+    "id" : 2
+},
+{
+    "name" :"South Campus",
+    "id" : 3
+},
+{
+    "name" :"East Campus",
+    "id" : 4
+},
+{
+    "name" :"West Campus",
+    "id" : 5
+},
+{
+    "name" :"Food Trucks",
+    "id" : 6
+}
+]

@@ -1,0 +1,44 @@
+{
+    "bagelsandtoppings": [
+        {
+            "items": ["Bagel with Cream Cheese", "Bagel with PB&J", "Bagel with Butter", "Bagel with Preserves", "Bagel with Peanut Butter", "Avocado Toast"],
+            "prices": [3.39, 3.59, 2.29, 2.29, 3.39, 4.19]
+        }
+    ],
+    "eggsandwiches": [
+        {
+            "items": ["Bacon & Cheddar Egg Sandwich", "Cheddar & Egg Sandwich", "Applewood Bacon & Cheddar Egg Sandwich", "Farmhouse", "Ham & Swiss", "Santa Fe", "All Nighter"],
+            "prices": [5.89, 5.49, 5.89, 6.19, 5.89, 5.69, 6.89]
+        }
+    ],
+    "sandwiches" : [
+        {
+            "items": ["Turkey & Cheddar Deli Sandwich", "Ham & Swiss Deli Sandwich", "Tasty Turkey", "Turkey, Bacon & Avocado", "Pizza Bagel"],
+            "prices": [6.79, 6.79, 7.19, 7.19, 5.99]
+        }
+    ],
+    "colddrinks" : [
+        {
+            "items": ["Cold Brew", "Vanilla Cream", "Caramel Cream", "Chocolate Cream", "Milk", "Lemonade", "Bottled Beverage", "Iced Americano", "Iced Mocha", "Iced Tea", "Iced Latte", "Iced Chai Tea Latte", "Fountain Beverage"],
+            "prices": [3.19, 3.79, 3.79, 3.79, 1.99, 2.09, 2.49, 2.49, 4.19, 2.19, 3.49, 3.49, 2.29]
+        }
+    ],
+    "hotdrinks" : [
+        {
+            "items": ["Regular Brewed Coffee", "Large Brewed Coffee"],
+            "prices": [2.49, 2.89]
+        }
+    ],
+    "bulk" : [
+        {
+            "items": ["Bakers Dozen Bagels Only", "Half Dozen Bagels Only"],
+            "prices": [12.99, 7.99]
+        }
+    ],
+    "sweets" : [
+        {
+            "items": ["Blueberry Muffin", "Chocolate Chip Cookie", "Strawberry Cream Strudel", "Apple Pie Pastry", "Cinnamon Roll"],
+            "prices": [2.39, 1.89, 2.99, 1.39, 3.99]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Chick-Fil-A",
+        "id": 1,
+        "isfavorite" : false,
+                    "location": "1400 Greene Street",
+                    "hours": [
+                        {
+                            "monday": [730, 2300],
+                            "tuesday": [730, 2300],
+                            "wednesday": [730, 2300],
+                            "thursday": [730, 2300],
+                            "friday": [730, 2200],
+                            "saturday": [900, 2200],
+                            "sunday": [0, 0]
+                        }
+                    ]
+    },
+    {
+        "name" :"Panera",
+        "id": 2,
+        "isfavorite" : false,
+        "location": "1400 Greene Street",
+        "hours": [
+            {
+                "monday": [730, 2100],
+                "tuesday": [730, 2100],
+                "wednesday": [730, 2100],
+                "thursday": [730, 2100],
+                "friday": [730, 2100],
+                "saturday": [1030, 2100],
+                "sunday": [1030, 2100]
+            }
+        ]
+    },
+    {
+        "name" :"Panda Express",
+        "id": 3,
+        "isfavorite" : false,
+        "location": "1400 Greene Street",
+        "hours": [
+            {
+                "monday": [1030, 1500, 1600, 2100],
+                "tuesday": [1030, 1500, 1600, 2100],
+                "wednesday": [1030, 1500, 1600, 2100],
+                "thursday": [1030, 1500, 1600, 2100],
+                "friday": [1030, 1500, 1600, 2100],
+                "saturday": [1100, 1500, 1600, 2100],
+                "sunday": [1100, 1500, 1600, 2100]
+            }
+        ]
+        
+    },
+    {
+        "name" :"Twisted Taco",
+        "id": 4,
+        "isfavorite" : false,
+                    "location": "1400 Greene Street",
+                    "hours": [
+                        {
+                            "monday": [1030, 2300],
+                            "tuesday": [1030, 2300],
+                            "wednesday": [1030, 2300],
+                            "thursday": [1030, 2300],
+                            "friday": [1030, 2300],
+                            "saturday": [1100, 2300],
+                            "sunday": [1100, 2300]
+                        }
+                    ]
+    },
+    {
+        "name" :"Einstein Bros. Bagels",
+        "id": 5,
+        "isfavorite" : false,
+                    "location": "1400 Greene Street",
+                    "hours": [
+                        {
+                            "monday": [700, 1430],
+                            "tuesday": [700, 1430],
+                            "wednesday": [700, 1430],
+                            "thursday": [700, 1430],
+                            "friday": [700, 1430],
+                            "saturday": [830, 1430],
+                            "sunday": [830, 1430]
+                        }
+                    ]
+    },{
+        "name" :"Carolina Creamery",
+        "id": 6,
+        "isfavorite" : false,
+                    "location": "1400 Greene Street",
+                    "hours": [
+                        {
+                            "monday": [1100,0],
+                            "tuesday": [1100, 0],
+                            "wednesday": [1100, 0],
+                            "thursday": [1100, 0],
+                            "friday": [1100, 0],
+                            "saturday": [1600, 0],
+                            "sunday": [1600, 0]
+                        }
+                    ]
+    }
+    ]

@@ -1,0 +1,26 @@
+{
+    "entrees" : [
+        {
+            "items": ["Burger w/ Cheese", "Double Burger w/ Cheese", "Burger w/ Bacon & Cheese", "Burger w/ Avacodo & PepperJack Cheese", "Chipotle Black-Bean Burger w/ Cheese", "Beyond Cheeseburger", "Grilled Chick & Bacon Burger", "Crispy Chicken Strips 3 piece", "Crispy Chicken Strips 5 piece", "Chicken Tender Sandwich", "Nashville Ranch Spicy Chicken", "Egg & Cheese Sandwich", "Egg, Meat, & Cheese Sandwich"],
+            "prices": [5.79, 8.29, 6.39, 6.39, 6.89, 9.09, 6.39, 4.59, 6.19, 4.59, 4.59, 4.59, 5.19, 5.19]
+        }
+    ],
+    "theSpread" : [
+        {
+            "items": ["Italian", "Vedge (Not Toasted)", "Tuna", "BLT", "Buffalo Chicken", "Roast Beef", "Turkey Club"],
+            "prices": [6.39, 6.39, 6.89, 6.39, 6.89, 6.89, 6.39]
+        }
+    ],
+    "dessertsAndSides" : [
+        {
+            "items": ["Chips", "Traditional Pickle", "Spicy Pickle", "Cookie"],
+            "prices": [1.59, 0.59, 0.59, 2.29]
+        }
+    ],
+    "beverages" : [
+        {
+            "items": ["Fountain Drink"],
+            "prices": [2.49]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Colloquim Cafe",
+        "id" : 11,
+        "isfavorite" : false,
+        "location": "817 Henderson Street",
+        "hours": [
+            {
+                "monday": [1030, 1930],
+                "tuesday": [1030, 1930],
+                "wednesday": [1030, 1930],
+                "thursday": [1030, 1700],
+                "friday": [1030, 1430],
+                "saturday": [0, 0],
+                "sunday": [0, 0]
+            }
+        ]
+    },
+    {
+        "name" :"Horshoe Deli",
+        "id" : 12,
+        "isfavorite" : false,
+        "location": "J. Welsh Humanities Office Building",
+                    "hours": [
+                        {
+                            "monday": [900, 2000],
+                            "tuesday": [900, 2000],
+                            "wednesday": [900, 2000],
+                            "thursday": [900, 2000],
+                            "friday": [900, 1700],
+                            "saturday": [0, 0],
+                            "sunday": [1700, 2100]
+                        }
+                    ]
+    },
+    {
+        "name" :"Starbucks - Humanities",
+        "id" : 13,
+        "isfavorite" : false,
+        "location": "817 Henderson Street",
+                    "hours": [
+                        {
+                            "monday": [700, 1800],
+                            "tuesday": [700, 1800],
+                            "wednesday": [700, 1800],
+                            "thursday": [700, 1800],
+                            "friday": [700, 1600],
+                            "saturday": [0, 0],
+                            "sunday": [0, 0]
+                        }
+                    ]
+    },
+    {
+        "name" :"Village Juice & Kitchen",
+        "id" : 14,
+        "isfavorite" : false,
+        "location": "1705 College Street",
+                    "hours": [
+                        {
+                            "monday": [700, 1430],
+                            "tuesday": [700, 1430],
+                            "wednesday": [700, 1430],
+                            "thursday": [700, 1430],
+                            "friday": [700, 1430],
+                            "saturday": [830, 1430],
+                            "sunday": [830, 1430]
+                        }
+                    ]
+    } 
+    ]

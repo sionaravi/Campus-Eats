@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Campus Eats</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+      }
+      body {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: #fbebeb;
+        margin: 0;
+        padding: 0px;
+        display: flex;
+        flex-direction: column;
+      }
+      
+      #header {
+        background-color: #b6b7e5;
+        color: black;
+        text-align: center;
+        padding: 10px;
+      }
+      
+      #nav {
+        background-color: #884e7d;
+        color: #FBEBEB;
+        text-align: center;
+        padding: 10px;
+      }
+      
+      #content {
+        flex: 1;
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+      }
+      
+      #footer {
+        background-color: #b6b7e5;
+        color: #FBEBEB;
+        text-align: center;
+        padding: 10px;
+        flex-shrink: 0;
+      }
+
+      #box {
+        padding: 20px;
+        margin: 20px;
+        text-align: center;
+        width: 300px;
+        height: 550px;
+      }
+
+      #boxcontainer {
+        display: flex;
+        justify-content: center;
+      }
+
+      #newbox {
+        border: 1px solid black;
+        padding: 20px;
+        margin: 20px;
+        background-color: #847979;
+        text-align: center;
+      }
+      
+      a {
+        color: #FBEBEB;
+        text-decoration: none;
+      }
+      
+      h1, h2, h3, h4, h5, h6 {
+        margin-top: 20px;
+        text-align: center;
+      }
+      
+      img {
+        width: 100%;
+        height: auto;
+        justify-content: center;
+        border-radius: 25px;
+      }
+
+      
+
+      /* //commenting out the code for the circles, can be implemented later it just isnt completely important right now
+      #circle1, #circle2 {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        width: 300px; // Adjust the size of the circle 
+        height: 300px; // Adjust the size of the circle 
+        border-radius: 50%; // Set the border radius to 50% to create a circle
+        background-color: #884e7d; // Set the color of the circle
+        opacity: 0.5; // Adjust the opacity of the circle 
+      }
+
+      #circle1 {
+        left: 150px; //Position the first circle to the left of the page 
+        top: 150px;
+      }
+
+      #circle2 {
+        right: -150px; // Position the second circle to the right of the page 
+      } 
+      */
+    </style>
+  </head>
+  
+  <body>
+    <!-- Display the header with the title of the app-->
+    <div id="header">
+      <h1>Campus Eats</h1>
+    </div>
+    
+    <!-- This code will display a navigation bar in the header of our website -->
+    <div id="nav">
+      <a href="#">Home</a> | 
+      <a href="about.html">About</a> | 
+      <a href="demo.html">Final Demo</a> 
+    </div>
+
+    <!-- I wanted to put in the circles like we have on the screen of our application, but am gonna need longer to work on it -->
+    <!-- <div id="circle1"></div>
+    <div id="circle2"></div> -->
+    
+    <!-- -->
+    <div id="content">
+      <h2>Welcome to Campus Eats</h2>
+      <p>This website showcases the project Campus Eats, an android application which acts as a campus specific grubhub to give students another option for employment at the University, as well as allowing easier access to food for students who do not have a long enough break to wait in line to eat lunch.</p>
+
+      <div id = "boxcontainer">
+        <div id="newbox">
+          <a href="">View this project on github.</a>
+        </div>
+      </div>
+      
+      
+      <div id="boxcontainer">
+        <div id="box">
+          <img src="images/website/login.png">
+          <p>Login Screen</p>
+        </div>
+        <div id="box">
+          <img src="images/website/chick-fil-a-cart.png">
+          <p>Food Selection Chick-Fil-A</p>
+        </div>
+        <div id="box">
+          <img src="images/website/payment-screen.png">
+          <p>Payment Screen</p>
+        </div>
+      </div>
+
+      <p>
+        The photos above display three screens of our application which aid in displaying the reasons behind the application.
+        The app itself is very user friendly, and utilizes password protection in order to keep all of your orders and information safe and tied to you.
+        You are able to pick which room on campus you are in, and that is your delivery address. This is something unique to campus eats which allows you to skip the lines and get food delivered to you
+        as soon as you want. This application was made by college students for college students and takes campus into consideration.
+      </p>
+    </div>
+
+    
+    
+    <!--Displays the footer which SHOULD be stagnant on the bottom of the page-->
+    <div id="footer">
+      <p>&copy; 2023 Campus Eats. All rights reserved.</p>
+    </div>
+  </body>
+</html>
+

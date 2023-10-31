@@ -1,0 +1,26 @@
+{
+    "salads": [
+        {
+            "items": ["Half Green Goddess Cobb with Chicken Salad", "Whole Green Goddess Cobb with Chicken Salad", "Half Fuji Apple with Chicken Salad", "Whole Fuji Apple with Chicken Salad"],
+            "prices": [8.69, 11.99, 7.89, 11.59]
+        }
+    ],
+    "soups": [
+        {
+            "items": ["Cup Cream of Chicken & Wild Rice Soup", "Bowl Cream of Chicken & Wild Rice Soup", "Cup Creamy Tomato Soup", "Bowl Creamy Tomato Soup", "Cup Turkey Chili", "Bowl Turkey Chili", "Cup Homestyle Chicken Noodle Soup", "Bowl Homestyle Chicken Noodle Soup", "Cup Bistro French Onion Soup",  "Bowl Bistro French Onion Soup"],
+            "prices": [6.59, 7.89, 6.59, 7.89, 7.29, 8.59, 6.49, 7.99, 6.49, 7.99]
+        }
+    ],
+    "macandcheese" : [
+        {
+            "items": ["Cup Bacon Mac & Cheese", "Bowl Bacon Mac & Cheese", "Cup Mac & Cheese", "Bowl Mac & Cheese", "Cup Broccoli Mac & Cheese", "Bowl Broccoli Mac & Cheese"],
+            "prices": [6.79, 10.69, 6.79, 10.69, 6.79, 10.69]
+        }
+    ],
+    "beverages" : [
+        {
+            "items": ["Soft Drink", "Lemonade"],
+            "prices": [2.00, 2.50]
+        }
+    ]
+}

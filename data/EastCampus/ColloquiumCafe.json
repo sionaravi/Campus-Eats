@@ -1,0 +1,32 @@
+{
+    "patioGrill" : [
+        {
+            "items": ["Marinated Chicken Breast", "Hamburger", "Marinated Portobello", "Chips", "Aquafina", "Soda"],
+            "prices": [6.79, 6.29, 6.49, 1.59, 1.89, 1.99]
+        }
+    ],
+    "chicken": [
+        {
+            "items": ["3 Piece Tenders", "5 Piece Tenders", "Tenders Sandwich", "Chicken Ceaser Salad", "Southwest Chicken Salad", "Buffalo Chicken Salad"],
+            "prices": [4.99, 7.19, 6.49, 8.99, 8.99, 8.99]
+        }
+    ],
+    "acai": [
+        {
+            "items": ["Strawberry Banana", "Tropical", "Ultimate Berry", "Peanut Butter and Jelly"],
+            "prices": [7.99, 7.99, 7.99, 7.99]
+        }
+    ],
+    "dessert" : [
+        {
+            "items": ["Chocolate Chip Cookie", "Brownie"],
+            "prices": [2.99, 2.39]
+        }
+    ],
+    "sides": [
+        {
+            "items": ["Side Garden Salad", "Coleslaw", "Fries"],
+            "prices": [3.29, 2.19, 2.19]
+        }
+    ]
+}

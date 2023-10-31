@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Cafe Verde",
+        "id" : 9,
+        "isfavorite" : false,
+        "location": "421 Sumter Street",
+                    "hours": [
+                        {
+                            "monday": [1100, 2300],
+                            "tuesday": [1100, 2300],
+                            "wednesday": [1100, 2300],
+                            "thursday": [1100, 2300],
+                            "friday": [0, 0],
+                            "saturday": [0, 0],
+                            "sunday": [1700, 2300]
+                        }
+                    ]
+    },
+    {
+        "name" :"Wired Cafe",
+        "id" : 10,
+        "isfavorite" : false,
+        "location": "301 Main Street",
+                    "hours": [
+                        {
+                            "monday": [800, 1500],
+                            "tuesday": [800, 1500],
+                            "wednesday": [800, 1500],
+                            "thursday": [800, 1500],
+                            "friday": [800, 1500],
+                            "saturday": [0, 0],
+                            "sunday": [0, 0]
+                        }
+                    ]
+    }
+    ]

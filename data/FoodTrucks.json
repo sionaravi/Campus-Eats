@@ -1,0 +1,36 @@
+[
+    {
+        "name": "The Coop",
+        "id" : 16,
+        "isfavorite" : false,
+        "location": "1400 Greene Street",
+                    "hours": [
+                        {
+                            "monday": [1100, 1400],
+                            "tuesday": [1100, 1400],
+                            "wednesday": [1100, 1400],
+                            "thursday": [1100, 1400],
+                            "friday": [1100, 1400],
+                            "saturday": [0, 0],
+                            "sunday": [0, 0]
+                        }
+                    ]   
+    },
+    {
+        "name" :"Nacho Papi's",
+        "id" : 17,
+        "isfavorite" : false,
+        "location": "1400 Greene Street",
+                    "hours": [
+                        {
+                            "monday": [1100, 1400],
+                            "tuesday": [1100, 1400],
+                            "wednesday": [1100, 1400],
+                            "thursday": [1100, 1400],
+                            "friday": [1100, 1400],
+                            "saturday": [0, 0],
+                            "sunday": [0, 0]
+                        }
+                    ]
+    }
+    ]

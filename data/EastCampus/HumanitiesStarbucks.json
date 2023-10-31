@@ -1,0 +1,20 @@
+{
+    "coffeeTea": [
+        {
+            "items": ["Freshly Brewed Coffee", "London Fog Tea Latte", "Chai Latte", "Custom Tea Latte", "Royal English Breakfast Tea Latte", "Matcha Green Tea Latte", "Matcha Soymilk Latte", "Vanilla Cream", "Cinnamon Dolce Cream", "White Hot Chocolate", "Hot Chocolate", "Steamed Milk", "Caramel Apple Spice"],
+            "prices": [2.65, 2.95, 4.25, 4.25, 4.25, 4.25, 4.25 , 3.45, 3.45, 4.25, 3.45, 2.95, 4.25]
+        }
+    ],
+    "refreshers": [
+        {
+            "items": ["Mango Dragonfruit Refresher", "Strawberry Acai Refresher", "Pink Drink", "Paradise Drink Refresher", "Pineapple Passionfruit Refresher", "Pineapple Passionfruit Lemonade Refresher"],
+            "prices": [3.95, 3.95, 4.65, 4.65, 3.95, 4.65]
+        }
+    ],
+    "frappucinos" : [
+        {
+            "items": ["Cafe Espresso Frappucino", "Matcha Coconut Milk Green Tea Frappucino", "Caramel Ribon Crunch Frappucino", "Espresso Frappucino", "White Chocolate Creme Frappucino", "Mocha Cookie Crumble Frappucino"],
+            "prices": [4.25, 4.45, 5.25, 5.55, 5.45, 5.25]
+        }
+    ]
+}
